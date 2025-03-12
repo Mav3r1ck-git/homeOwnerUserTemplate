@@ -142,14 +142,14 @@
                     <option value="ome Remodeling">Home Remodeling</option>
                     <option value="Plumbing">Plumbing</option>
                     <option value="Carpet Cleaning">Carpet Cleaning</option>
-                    <option value="Home Cleaning">Home Cleaning</option>
+                    <option value="Home Cleaning">House Keeping</option>
                     <option value="Electrical">Electrical</option>
                 </select>
 
                 <label for="payment">Payment Method</label>
                 <select id="payment" name="payment">
                     <option value="credit">Credit Card</option>
-                    <option value="paypal">PayPal</option>
+                    <option value="Gcash">Gcash</option>
                     <option value="bank">Bank Transfer</option>
                 </select>
 
